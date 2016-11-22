@@ -15,7 +15,7 @@ LOCAL_RESOURCE_DIR = \
         frameworks/support/v7/appcompat/res \
         frameworks/support/design/res
 
-LOCAL_PACKAGE_NAME := SnapdragonMusic
+LOCAL_PACKAGE_NAME := SnapMusic
 LOCAL_OVERRIDES_PACKAGES := Music
 LOCAL_CERTIFICATE := platform
 
